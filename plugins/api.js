@@ -1,6 +1,6 @@
 var fs = require('fs');
 var crypto = require('crypto');
-var sercJS = require('serc-js');
+var sercJS = require('sht-js');
 var Api = require('../helpers/api.js');
 var blockHelper = require('../helpers/block.js');
 var cryptoLib = require('../lib/crypto.js');

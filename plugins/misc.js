@@ -6,7 +6,7 @@ var blockHelper = require("../helpers/block.js");
 var cryptoLib = require("../lib/crypto.js");
 var dappHelper = require("../helpers/dapp.js");
 var Api = require('../helpers/api.js');
-var SercUtils = require('serc-js').utils;
+var SercUtils = require('sht-js').utils;
 
 var globalOptions;
 
